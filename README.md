@@ -11,3 +11,6 @@ Based on the excellent https://github.com/kevinakasam/ERCF_Filament_Cutter
 - using wolfracft 45196 blades
 - blade shim that can be printed for accurate positioning of blade
 
+## Servo base
+- multiple mounting holes
+
