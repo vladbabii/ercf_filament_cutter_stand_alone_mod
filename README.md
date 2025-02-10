@@ -17,5 +17,5 @@ Based on the excellent https://github.com/kevinakasam/ERCF_Filament_Cutter
 
 # Parts from original
 Source: https://github.com/kevinakasam/ERCF_Filament_Cutter/tree/main/STL(Beta)
-- Servo_Gear.stl
-- Servo_Gear_M3.stl
+- Servo_Gear.stl or Servo_Gear_M3.stl
+- The original arm can also be used
