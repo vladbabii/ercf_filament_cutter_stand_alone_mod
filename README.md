@@ -43,7 +43,7 @@ Don't forget to chamfer all the pfte tube end (do this on all ends of the tube w
 ## Switch to trad rack filament cutter
 on klipper host (raspberry pi)
 ```
-cd cd trad_rack_klippy_module/
+cd trad_rack_klippy_module/
 git checkout git checkout wip-inline-filament-cutter
 ```
 
