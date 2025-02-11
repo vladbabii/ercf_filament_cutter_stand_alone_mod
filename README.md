@@ -120,7 +120,7 @@ cutter_retract_length: -10
 cut_override_gcode:
   M400  
   CUTTER_PRECUT
-  FORCE_MOVE STEPPER=stepper_tr_fil_driver DISTANCE=50 VELOCITY=<filament_speed> ACCEL=1500  # push filament in
+  FORCE_MOVE STEPPER=stepper_tr_fil_driver DISTANCE=30 VELOCITY=30 ACCEL=1500  # push filament in
   M400
   CUTTER_PASS NOWAIT=1 ## in this case it includes CUTTER_CUT, to move to passthrough position it goes through cutting and we don't need to wait for it to finish
   M400
